@@ -1,0 +1,23 @@
+ .mask {
+  width: 100%;
+  height: auto;
+
+  -webkit-mask-image: url("newPaint1.svg");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+
+  mask-image: url("newPaint1.svg");
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  mask-mode: alpha;
+} 
+
+/* .mask{
+  mask-image: url("newPaint1.svg");
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  mask-size: 100%;
+} */

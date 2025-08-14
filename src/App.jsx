@@ -36,7 +36,7 @@ function App() {
       setisLoading(false);
       console.log(QUOTE.content);
     } catch (error) {
-      alert(error);
+      alert("error fetching quote check network connection");
     }
   };
   return (

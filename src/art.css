@@ -2,12 +2,12 @@
   width: 100%;
   height: auto;
 
-  -webkit-mask-image: url("newPaint1.svg");
+  -webkit-mask-image: url("/newPaint1.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
   -webkit-mask-size: contain;
 
-  mask-image: url("newPaint1.svg");
+  mask-image: url("/newPaint1.svg");
   mask-repeat: no-repeat;
   mask-position: center;
   mask-size: contain;
